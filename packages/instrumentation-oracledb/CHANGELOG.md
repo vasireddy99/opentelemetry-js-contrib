@@ -1,6 +1,18 @@
 <!-- markdownlint-disable MD007 MD034 -->
 # Changelog
 
+## [0.47.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-oracledb-v0.46.0...instrumentation-oracledb-v0.47.0) (2026-08-27)
+
+
+### Features
+
+* **instrumentation-oracledb:** add database client metrics ([#3657](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/3657)) ([7eb7053](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/7eb70536040b3419f84a3b3c0f2d1c7995d1c40e))
+
+
+### Bug Fixes
+
+* **deps:** move unused [@types](https://github.com/types) packages out of runtime dependencies ([#3702](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/3702)) ([49ebdaf](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/49ebdaf9cac16d74ed748ae15a5bc573a82e4a0e))
+
 ## [0.46.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-oracledb-v0.45.0...instrumentation-oracledb-v0.46.0) (2026-07-23)
 
 

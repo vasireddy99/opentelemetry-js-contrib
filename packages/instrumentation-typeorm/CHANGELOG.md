@@ -1,6 +1,13 @@
 <!-- markdownlint-disable MD007 MD034 -->
 # Changelog
 
+## [0.22.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-typeorm-v0.21.0...instrumentation-typeorm-v0.22.0) (2026-08-27)
+
+
+### Features
+
+* **instrumentation-typeorm:** add support for typeorm@1.x ([#3619](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/3619)) ([16edd18](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/16edd1873ec0cf47da105a7216d24ed4fd39c8b1))
+
 ## [0.21.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-typeorm-v0.20.0...instrumentation-typeorm-v0.21.0) (2026-07-23)
 
 
